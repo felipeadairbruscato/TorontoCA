@@ -1,0 +1,70 @@
+body {
+background: #000000 url(https://www.pngplay.com/wp-content/uploads/15/Maple-Leaf-Falling-Download-Free-PNG.png);
+font-family: Comic Sans MS;
+line-height: 2.0;
+}
+
+.container {
+margin: 0 auto;
+width: 1440px;
+}
+
+.place {
+background-color: #000000;
+border-color: #FFFFFF #FFFFFF #FFFFFF #FFFFFF;
+border: 1px solid #FFFFFF;
+margin-bottom: 20px;
+padding: 10px;
+}
+
+.place h2 {
+border-bottom: 1px dashed #FFFFFF;
+margin: 0;
+}
+
+.place img {
+border: 1px solid #FFFFFF;
+float: left;
+margin: 10px 10px 0 0;
+padding: 2px;
+}
+
+.clear {
+clear: both;
+}
+
+.footer {
+font-size: 20px;
+text-align: center;
+}
+
+.sidenote {
+background-color: #000000;
+float: right;
+border: 1px solid #FFFFFF;
+margin: 10px;
+padding: 10px;
+width: 360px;
+}
+.sidenote h3 {
+font-size: 22px;
+margin-top: 0;
+}
+.sidenote ol {
+font-size: 18px;
+}
+
+.places {
+float: left;
+width: 1000px;
+font-size: 22px;
+}
+
+img {
+	width: 400px;
+}
+
+.container h1{
+	font-size: 60px;
+	text-align: center;
+}
